@@ -1,0 +1,8 @@
+ما هي أهم المعلومات المطلوبة في مرحلة الفحص مع مثال على كل منها باستخدام اداة nmap ?
+
+1- up/down                     nmap -sP victem ip
+2- services used               nmap -sX sV victem ip              /  nmap -A victem ip
+3-port scan                    nmap -sU -p 88,120 victem ip       /  nmap -p 1-100 victem ip
+Host Discovery                 nmap -sL victem ip                    
+5-half-open scanning           nmap -sS victem ip
+6-Detect OS and services       nmap -A victem ip                  /   nmap -sA -O victem ip
