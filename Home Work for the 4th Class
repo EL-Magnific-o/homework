@@ -1,0 +1,29 @@
+1 Install Openssh in ubuntu using apt
+a- sudo apt install openssh-client
+
+2 update the apt List
+a-sudo apt update
+
+3 install VLC player
+a-sudo apt-get install vlc 
+
+4 change your DNS to 8.8.8.8 and 8.8.4.4
+a-sudo nano /etc/resolv.conf
+
+5 Secure the SSH ( put all what you know in the configuration file)
+a-
+
+6 How can you find out how much memory Linux is using?
+a-free -m
+
+7 What is a typical size for a swap partition under a Linux system?
+a- Double the memory
+
+8 what is the version of BASH in your system?
+a-4.4.19
+
+ 9 write Hello world program in Bash
+ a-
+ 
+10 Run the Program
+a-
