@@ -23,7 +23,8 @@ a- Double the memory
 a-4.4.19
 
  9 write Hello world program in Bash
- a-
+ a-#!/bin/bash
+echo "hello world"
  
 10 Run the Program
-a-
+a-bash folder.sh
