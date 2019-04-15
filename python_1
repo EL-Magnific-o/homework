@@ -2,3 +2,4 @@ String =input ("enter a string and i well revers it  : ")
 
 
 print (String[::-1])
+
